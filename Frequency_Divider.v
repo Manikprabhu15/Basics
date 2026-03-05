@@ -1,7 +1,7 @@
 module fd(
-	input clk,
-  input rst,
-	input [4:0]factor,
+	input wire clk,
+	input wire rst,
+	input wire [4:0]factor,
 	output reg new_clk
 );
   
