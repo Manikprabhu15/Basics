@@ -8,10 +8,13 @@ This repository contains small **practice programs** written in **Verilog** and 
 - Writing simple testbenches and running simulations
 
 ## Typical practice topics
-- Combinational logic (mux, decoder, encoder, adder, comparator)
-- Sequential logic (flip-flops, counters, registers)
+- Combinational logic
+- Sequential logic
 - FSM basics
-- Testbenches (stimulus, monitoring, dumps/waveforms)
+- Testbenches
+
+  ## Currently available code
+- Frequency Divider (`Frequency_Divider.v`)
 
 ## Notes
 - Modules may be independent and not follow a fixed structure (practice-oriented).
