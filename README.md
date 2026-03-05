@@ -7,13 +7,7 @@ This repository contains small **practice programs** written in **Verilog** and 
 - Practicing digital design building blocks
 - Writing simple testbenches and running simulations
 
-## Typical practice topics
-- Combinational logic
-- Sequential logic
-- FSM basics
-- Testbenches
-
-  ## Currently available code
+## Currently available code
 - Frequency Divider (`Frequency_Divider.v`)
 
 ## Notes
