@@ -1,4 +1,3 @@
-# Basics
 # Basics (Verilog / SystemVerilog)
 
 This repository contains small **practice programs** written in **Verilog** and **SystemVerilog** to brush up HDL concepts.
