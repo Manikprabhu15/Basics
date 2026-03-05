@@ -9,6 +9,7 @@ This repository contains small **practice programs** written in **Verilog** and 
 
 ## Currently available code
 - Frequency Divider (`Frequency_Divider.v`)
+- Customize Sequence Counter:: Seqeunce : 0 -> 2 -> 7 -> 12 -> 15 -> 9 -> 3 -> 0 (`Customize_Sequence_Counter.v`)
 
 ## Notes
 - Modules may be independent and not follow a fixed structure (practice-oriented).
